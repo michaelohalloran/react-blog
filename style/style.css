@@ -1,0 +1,5 @@
+
+/* anchor tag inside a form element (really, a Link tag, which renders as anchor) */
+form a {
+    margin-left: 5px;
+}
